@@ -1,4 +1,4 @@
-# Write a Java program to find HCF of two Numbers. HCF is the highest common factor of two numbers.
+# Write a Python program to find HCF of two Numbers. HCF is the highest common factor of two numbers.
 
 num = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))

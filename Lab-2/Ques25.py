@@ -1,4 +1,4 @@
-# Write a Java program to convert a Binary Number to Decimal.write with logic , don't use any build in function.
+# Write a Python program to convert a Binary Number to Decimal.write with logic , don't use any build in function.
 num = int(input("Enter a binary number: "))
 binary = num
 decimal = 0

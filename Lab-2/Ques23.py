@@ -1,4 +1,4 @@
-# Write a Java program to find LCM of two Numbers
+# Write a Python program to find LCM of two Numbers
 num = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 if num > num2:

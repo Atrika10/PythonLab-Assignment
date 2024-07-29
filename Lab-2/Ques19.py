@@ -1,4 +1,4 @@
-# Write a Java program to find all roots of a quadratic equation.
+# Write a Python program to find all roots of a quadratic equation.
 def roots(a, b, c):
     d = b**2 - 4*a*c
     if d > 0:

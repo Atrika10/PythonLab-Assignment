@@ -1,4 +1,4 @@
-# Write a Java program to calculate factorial of 12.
+# Write a Python program to calculate factorial of 12.
 num = 12
 def factorial(num):
     if num == 0:

@@ -1,4 +1,4 @@
-# Write a Java program to count the number of digits of an integer
+# Write a Python program to count the number of digits of an integer
 num = int(input("Enter a number: "))
 count = 0
 while num > 0:
